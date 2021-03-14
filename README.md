@@ -49,5 +49,5 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## ScreenShot of the website
-![ScreenShot of the Website](assets\images\Website Demo.png)
+![ScreenShot of the Website](assets/images/WebsiteDemo.png)
 

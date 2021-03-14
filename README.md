@@ -1,5 +1,10 @@
 ## JavaScript: Password Generator
 
+
+## Link of the Website
+https://tinkubansal95.github.io/password-generator/
+
+
 ## Goals of the Project
 
 ```
@@ -42,4 +47,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+
+## ScreenShot of the website
+![ScreenShot of the Website](assets\images\Website Demo.png)
 
